@@ -50,6 +50,9 @@ Em termos financeiros, considerando um modelo de assinatura voltado aos candidat
 
 O mercado de preparação para a FUVEST é altamente competitivo e exigente, mas também mostra alta disposição ao investimento em soluções que aumentem a eficiência dos estudos. Para conquistar a confiança desse público, será essencial demonstrar resultados concretos por meio de pilotos e indicadores de progresso. O Edu.ca, posicionado como complemento inteligente ao estudo tradicional, tem potencial para redefinir padrões de preparação à FUVEST, oferecendo personalização avançada via IA e integrando-se de forma natural à rotina dos vestibulandos.
 
+Extra – Pesquisa de Mercado Agentes de IA  (1º semestre 2025)
+Uma pesquisa complementar que fiz mapeando o histórico dos agentes de IA, do surgimento nos anos 1950 aos recentes avanços com Auto-GPT, destacando um mercado global em forte expansão (CAGR 46,3% até 2030) e aplicações principalmente em empresas e indústria. No Brasil, players como Workmate e DataWake ilustram o potencial de automação inteligente. Esse cenário reforça a oportunidade de, no futuro, o Edu.ca incorporar agentes especializados para ampliar personalização e relatórios em tempo real.
+
 ## Público-Alvo
 
 Para ilustrar os segmentos-chave do público-alvo, elaboramos **duas personas** que representam perfis típicos de usuários do Edu.ca. Cada persona detalha características demográficas, perfil educacional/tecnológico, dores, objetivos e como a solução se alinha às suas necessidades.
